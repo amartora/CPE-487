@@ -1,0 +1,7 @@
+v 4
+file . "halfadder_tb.vhd" "0b0dceb11321950e0eb11c5b47295cb484749954" "20200913185452.984":
+  entity halfadder_tb at 1( 0) + 0 on 17;
+  architecture test of halfadder_tb at 9( 126) + 0 on 18;
+file . "halfadder.vhd" "241115966e7e96345425f8685fed5a5af6b93699" "20200913185442.492":
+  entity halfadder at 1( 0) + 0 on 15;
+  architecture behave of halfadder at 28( 823) + 0 on 16;
