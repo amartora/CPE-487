@@ -1,0 +1,5 @@
+vga_red: PIN_106
+vga_green: PIN_105
+vga_blue: PIN_104
+vga_hsync: PIN_101
+vga_vsync: PIN_103
